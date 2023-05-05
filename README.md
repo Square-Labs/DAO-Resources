@@ -4,7 +4,9 @@ We can use this as a starter template:
 
 (taken from [https://github.com/DAOresearch/awesome-daos#readme)](https://github.com/DAOresearch/awesome-daos#readme))
 
-The Governance Library: https://rabbithole-gg.notion.site/The-Governance-Library-d337b94b650d4874a32a8f40fa29247b
+The Governance Library: [https://rabbithole-gg.notion.site/The-Governance-Library-d337b94b650d4874a32a8f40fa29247b](https://rabbithole-gg.notion.site/The-Governance-Library-d337b94b650d4874a32a8f40fa29247b)
+
+Decentralization: https://variant.fund/articles/whole-crypto-catalog-progressive-decentralization/
 
 :fire: Getting Started
 
