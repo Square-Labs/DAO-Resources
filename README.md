@@ -4,6 +4,8 @@ We can use this as a starter template:
 
 (taken from [https://github.com/DAOresearch/awesome-daos#readme)](https://github.com/DAOresearch/awesome-daos#readme))
 
+https://www3.weforum.org/docs/WEF_Decentralized_Autonomous_Organization_Toolkit_2023.pdf
+
 The Governance Library: [https://rabbithole-gg.notion.site/The-Governance-Library-d337b94b650d4874a32a8f40fa29247b](https://rabbithole-gg.notion.site/The-Governance-Library-d337b94b650d4874a32a8f40fa29247b)
 
 Decentralization: https://variant.fund/articles/whole-crypto-catalog-progressive-decentralization/
