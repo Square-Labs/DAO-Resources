@@ -2,7 +2,7 @@
 
 We can use this as a starter template:
 
-(taken from [https://github.com/DAOresearch/awesome-daos#readme)](https://github.com/DAOresearch/awesome-daos#readme))
+https://mechanism.institute/
 
 https://www3.weforum.org/docs/WEF_Decentralized_Autonomous_Organization_Toolkit_2023.pdf
 
