@@ -4,6 +4,10 @@ We can use this as a starter template:
 
 https://mechanism.institute/
 
+https://docs.google.com/spreadsheets/u/0/d/1Ry1Tk51jp8P5djmNG6Kby7rSZTNlRPyeV1mpa0_S3jE/htmlview#
+
+https://plaid-cement-e44.notion.site/The-Collective-DAO-Archives-Governance-Library-a58c6a2567c34636bc425ac97c7c9a79
+
 https://www3.weforum.org/docs/WEF_Decentralized_Autonomous_Organization_Toolkit_2023.pdf
 
 The Governance Library: [https://rabbithole-gg.notion.site/The-Governance-Library-d337b94b650d4874a32a8f40fa29247b](https://rabbithole-gg.notion.site/The-Governance-Library-d337b94b650d4874a32a8f40fa29247b)
