@@ -1,6 +1,6 @@
 # DAO-Resources
 
-We can use this as a starter template:
+[The Collective DAO Archives: Governance Library](https://plaid-cement-e44.notion.site/The-Collective-DAO-Archives-Governance-Library-a58c6a2567c34636bc425ac97c7c9a79)
 
 https://mechanism.institute/
 
